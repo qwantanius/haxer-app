@@ -1,0 +1,78 @@
+ <tab tabid="Tab contents 1"  >Tab contents 1</tab>
+    <label-text
+        pos-x="20"
+        pos-y="20"
+        tabid="Tab contents 1">Hi, this is static text for tab 1</label-text>
+    <item-button 
+        pos-x="100"
+        pos-y="100"
+        tabid="Tab contents 1"
+        icon="baseButton.ico">A1</item-button>
+    <item-button 
+        pos-x="300"
+        pos-y="100"
+        tabid="Tab contents 1"
+        icon="baseButton.ico">B1</item-button>
+    <item-button 
+        pos-x="100"
+        pos-y="300"
+        tabid="Tab contents 1"
+        icon="baseButton.ico">C1</item-button>
+    <item-button 
+        pos-x="300"
+        pos-y="300"
+        tabid="Tab contents 1"
+        icon="baseButton.ico">D1</item-button>
+
+ <tab tabid="Tab contents 2">Tab contents 2</tab>
+     <label-text
+        pos-x="20"
+        pos-y="20"
+        tabid="Tab contents 2">Hi, this is static text for tab 2</label-text>
+    <item-button 
+        pos-x="100"
+        pos-y="100"
+        tabid="Tab contents 2"
+        icon="baseButton.ico">A2</item-button>
+    <item-button 
+        pos-x="300"
+        pos-y="100"
+        tabid="Tab contents 2"
+        icon="baseButton.ico">B2</item-button>
+    <item-button 
+        pos-x="100"
+        pos-y="300"
+        tabid="Tab contents 2"
+        icon="baseButton.ico">C2</item-button>
+    <item-button 
+        pos-x="300"
+        pos-y="300"
+        tabid="Tab contents 2"
+        icon="baseButton.ico">D2</item-button>
+
+
+ <tab tabid="Tab contents 3">Tab contents 3</tab>
+     <label-text
+        pos-x="20"
+        pos-y="20"
+        tabid="Tab contents 3">Hi, this is static text for tab 3</label-text>
+    <item-button 
+        pos-x="100"
+        pos-y="100"
+        tabid="Tab contents 3"
+        icon="baseButton.ico">A3</item-button>
+    <item-button 
+        pos-x="300"
+        pos-y="100"
+        tabid="Tab contents 3"
+        icon="baseButton.ico">B3</item-button>
+    <item-button 
+        pos-x="100"
+        pos-y="300"
+        tabid="Tab contents 3"
+        icon="baseButton.ico">C3</item-button>
+    <item-button 
+        pos-x="300"
+        pos-y="300"
+        tabid="Tab contents 3"
+        icon="baseButton.ico">D3</item-button>
