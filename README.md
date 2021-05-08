@@ -4,8 +4,6 @@ This project was bootstrapped with [Feathers UI](https://feathersui.com/learn/ha
 This is my test project for Product Engine company. <br>
 Written by using Haxe lang and openfl + Feathers UI framework <br>
 
-The techtask was like this: <br>
-
 
 
 
